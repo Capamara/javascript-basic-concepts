@@ -1,2 +1,3 @@
 # javascript-basic-concepts
-Material that provide basic concepts of Javascripts
+Material that provide basic concepts of Javascript
+
